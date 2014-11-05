@@ -1,6 +1,8 @@
 #coding=utf-8
 #python版本3.4
+
 from tkinter import *
+
 colors = '''#FFB6C1 LightPink 浅粉红
 #FFC0CB Pink 粉红
 #DC143C Crimson 深红/猩红
